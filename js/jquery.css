@@ -1,0 +1,73 @@
+/* all screens */
+body {
+	font-family: "Arial", Arial, sans-serif;
+	margin:0px;
+}
+
+a {
+	text-decoration:none;
+	color:#0043FF; /* light blue */
+}
+
+a:hover {
+	color:#0F003D; /* dark blue */
+}
+
+.container {
+	max-width:900px;
+	margin:0px auto;
+	padding-left:1em;
+	padding-right:1em;
+}
+
+.navbar {
+	margin:-1.2em 0em; /*impressum: -1em, normal: -1.2em*/
+	width:100%;
+	position:fixed;
+	background-color:#2a2833;
+}
+
+.navbar a {
+	float:left;
+	display: box;
+	font-size:1.2em;
+	color:#fff;
+	padding:0.5em;
+}
+
+.inactive {
+	background-color:none;
+}
+
+.inactive:hover {
+	background-color:#73727a;
+}
+
+.active {
+	background-color:#0043FF;
+}
+
+h1 {
+	font-family: 'Questrial', sans-serif;
+	font-size:2em;
+}
+
+.foTxt, .foTxt a {
+	font-size:0.8;
+	color:#73727a; /* light grey */
+	text-align:center;
+}
+
+.foTxt a:hover {
+	color:#2a2833; /* dark grey */
+}
+
+/* Screens > 500px */
+@media (min-width: 500px && max-width:){
+	
+}
+
+/* Screens < 499px */
+@media (max-width: 499px){
+	
+}

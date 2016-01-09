@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>easy-driver.me</title>
+    <link>http://easy-driver.github.io</link>
+    <description />
+    <item>
+      <guid>http://easy-driver.github.io/</guid>
+      <title>easy-driver.me</title>
+      <link>http://easy-driver.github.io/</link>
+      <description>Fahrschule easy-driver.me Rheinfelden</description>
+    </item>
+    <item>
+      <guid>http://easy-driver.github.io/impressum.html</guid>
+      <title>Impressum</title>
+      <link>http://easy-driver.github.io/impressum.html</link>
+      <description>Fahrschule easy-driver.me Rheinfelden</description>
+    </item>
+  </channel>
+</rss>
+<!--<guid value="8d15cc0f-1734-461d-8c59-1aa55066660d" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
