@@ -9,12 +9,12 @@
   },
   "email": "kontakt@easy-driver.me",
   "telephone": "0176 52 55 90 90",
-  "name": "Fahrschule easy-driver.me"
-  "description": "Die freundliche Fahrschule in Rheinfelden. Entspannt lernen - Sicher fahren."
-  "image": "http://easy-driver.me/img/Fotolia_81947105_L.jpg"
-  "url": "http://easy-driver.me"
+  "name": "Fahrschule easy-driver.me",
+  "description": "Die freundliche Fahrschule in Rheinfelden. Entspannt lernen - Sicher fahren.",
+  "image": "http://easy-driver.me/img/Fotolia_81947105_L.jpg",
+  "url": "http://easy-driver.me",
   "openingHours": [
     "Mo,We,Fr 15:00-17:00",
     "Tu,Th 17:00-21:30"
-  ],
+  ]
 }
