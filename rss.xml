@@ -3,18 +3,18 @@
 <rss version="2.0">
   <channel>
     <title>easy-driver.me</title>
-    <link>http://easy-driver.github.io</link>
+    <link>http://easy-driver.me</link>
     <description />
     <item>
-      <guid>http://easy-driver.github.io/</guid>
+      <guid>http://easy-driver.me/</guid>
       <title>easy-driver.me</title>
-      <link>http://easy-driver.github.io/</link>
+      <link>http://easy-driver.me/</link>
       <description>Fahrschule easy-driver.me Rheinfelden</description>
     </item>
     <item>
-      <guid>http://easy-driver.github.io/impressum.html</guid>
+      <guid>http://easy-driver.me/impressum.html</guid>
       <title>Impressum</title>
-      <link>http://easy-driver.github.io/impressum.html</link>
+      <link>http://easy-driver.me/impressum.html</link>
       <description>Fahrschule easy-driver.me Rheinfelden</description>
     </item>
   </channel>
